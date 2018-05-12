@@ -18,3 +18,4 @@ Integrated a smart list feature that changes dynamically
 **What's next for ProvidR**
 Create a large server that accumulates inputted data over multiple pantries over time and expand our services to communities across the country.
 
+Providr README
